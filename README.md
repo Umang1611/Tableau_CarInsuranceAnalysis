@@ -5,6 +5,8 @@ There is no clear set of instructions in such open-ended problems and it is expe
 These DVT projects fall into the bucket of such open-ended problems and a specific problem statement has not been given intentionally.
 It is expected of students to explore the data and come up with good insights. 
 
-## Analysis with Tableau: 
+## Check Analysis with Tableau: 
 https://public.tableau.com/profile/umang.mahant#!/vizhome/CarInsuranceProject_15905973843670/AnalysisofCarinsuranceData
 
+## Claim Analyis:
+![alt text](https://github.com/Umang1611/Tableau_CarInsuranceAnalysis/blob/master/CarAgeClaimedInsurance.png)
